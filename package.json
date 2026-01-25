@@ -22,7 +22,7 @@
   },
   "sideEffects": false,
   "dependencies": {
-    "@bablr/agast-helpers": "0.10.1",
+    "@bablr/agast-helpers": "0.10.2",
     "@bablr/coroutine": "0.1.0"
   },
   "devDependencies": {
