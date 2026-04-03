@@ -17,7 +17,6 @@
     "./iterable": "./lib/iterable.js",
     "./languages": "./lib/languages.js",
     "./print": "./lib/print.js",
-    "./stream": "./lib/stream.js",
     "./symbols": "./lib/symbols.js"
   },
   "sideEffects": false,
