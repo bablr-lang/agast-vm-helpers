@@ -14,7 +14,6 @@
     "./embed": "./lib/embed.js",
     "./facades": "./lib/facades.js",
     "./internal-builders": "./lib/internal-builders.js",
-    "./iterable": "./lib/iterable.js",
     "./languages": "./lib/languages.js",
     "./print": "./lib/print.js",
     "./symbols": "./lib/symbols.js"
