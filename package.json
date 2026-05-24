@@ -9,6 +9,8 @@
   ],
   "exports": {
     ".": "./lib/index.js",
+    "./parsers/regex": "./lib/parsers/regex.js",
+    "./parsers/spamex": "./lib/parsers/spamex.js",
     "./builders": "./lib/builders.js",
     "./deembed": "./lib/deembed.js",
     "./embed": "./lib/embed.js",
