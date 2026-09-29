@@ -22,6 +22,7 @@
   },
   "sideEffects": false,
   "dependencies": {
+    "agast": "^1.0.0",
     "@bablr/agast-helpers": "0.11.4"
   },
   "devDependencies": {
